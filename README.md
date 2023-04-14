@@ -4,6 +4,7 @@
 - 📫 How to reach me @HexTex#8585 Discord
 - 🏆 Competitive Programming / TOI17 🥉/ TOI18 🥇
 - 🏢 CodeBlitz Co-Founder 
+- <p align="center">
 <div>
 
 ### :fire: My Stats :
@@ -12,6 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHexlabx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
+  </p>
 <!---
 xHexlabx/xHexlabx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
