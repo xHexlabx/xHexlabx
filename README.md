@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning AI and Algorithm
 - 📫 How to reach me @HexTex#8585 Discord
 - 🏆 Competitive Programming / TOI17 🥉/ TOI18 🥇
-- 🏢 CodeBlitz Co-Founder 
+- 🏢 CodeBlitz Co-Founder
+- 🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥
 <p align="center">
 
 ### :fire: My Stats :
