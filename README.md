@@ -1,3 +1,5 @@
+# Tee Hemjinda | HexTex
+<hr>
 - 👋 Hi, I’m @xHexlabx
 - 👀 I’m interested in Programming and Artificial Intelligence
 - 🌱 I’m currently learning AI and Algorithm
@@ -6,7 +8,7 @@
 - 🏢 CodeBlitz Co-Founder
 - 🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥
 <p align="center">
-
+<hr>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=dark&background=000000)](https://git.io/streak-stats)
 <br><br>
