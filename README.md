@@ -1,4 +1,4 @@
-# <p>Tee Hemjinda | <u> HexTex </u> | Tokyo</p>
+# Tee Hemjinda | HexTex | Tokyo
 
 <hr>
 
