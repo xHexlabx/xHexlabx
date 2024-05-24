@@ -15,17 +15,13 @@
 
 ### :fire: My Stats :
 
-<p text-align = "center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=meta-light)](https://git.io/streak-stats)
-</p>
 
-  <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHexlabx&layout=compact&theme=meta-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHexlabx&layout=compact&theme=meta-light)](https://github.com/anuraghazra/github-readme-stats)
 
-  <br>
      
-  [![xHexlabx GitHub stats](https://github-readme-stats.vercel.app/api?username=xHexlabx)](https://github.com/xHexlabx/github-readme-stats)
+[![xHexlabx GitHub stats](https://github-readme-stats.vercel.app/api?username=xHexlabx)](https://github.com/xHexlabx/github-readme-stats)
     
 
  
