@@ -15,7 +15,11 @@
 
 ### :fire: My Stats :
 
-<center> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=github-dark-blue)](https://git.io/streak-stats) </center>
+<center> 
+     
+     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=github-dark-blue)](https://git.io/streak-stats) 
+     
+</center>
 
 
      
