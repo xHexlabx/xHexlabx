@@ -20,7 +20,8 @@
   <div>
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=meta-light)](https://git.io/streak-stats)
-
+  
+</p>
   <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHexlabx&layout=compact&theme=meta-light)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,7 +34,7 @@
 
  
   
-</p>
+
   
   
 
