@@ -16,9 +16,9 @@
 ### :fire: My Stats :
 
 <p align = "center">
-    
+    <center>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=meta-light)](https://git.io/streak-stats)
-  
+    </center>
 </p>
 
   <br>
