@@ -5,7 +5,7 @@
 - 👋 Hi, You're in "xHexlabx" 
 - 👀 I’m interested in Programming and Artificial Intelligence (Image Processing and Signal Processing)
 - 🌱 I’m currently learning AI and Algorithm
-- 📫 How to reach me @HexTex#8585 Discord
+- 📫 How to reach me @hextex Discord
 - 🏆 Competitive Programming / TOI17 🥉/ TOI18 🥇
 - 🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥
 
