@@ -8,9 +8,15 @@
         <li>👀 I’m interested in Programming and Artificial Intelligence (ImageProcessing and Signal Processing)</li>
         <li>🌱 I’m currently learning AI and Algorithm</li>
         <li>📫 How to reach me @hextex Discord</li>
-        <li>🏆 Competitive Programming / TOI17 🥉/ TOI18 🥇</li>
+        <li>🏆 Competitive Programming 
+            <ul>
+                <li>TOI17 🥉</li>
+                <li>TOI18 🥇</li>
+            </ul>
+        </li>
         <li>🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥</li>
-
+        
+    </ul>
     
 </p>
 
