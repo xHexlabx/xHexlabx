@@ -5,7 +5,7 @@
 <p>
     <ul>
         <li>👋 Hi, You're in "xHexlabx" </li>
-        <li>👀 I’m interested in Programming and Artificial Intelligence (ImageProcessing and Signal Processing)</li>
+        <li>👀 I’m interested in Programming and Artificial Intelligence ( ImageProcessing and Signal Processing )</li>
         <li>🌱 I’m currently learning AI and Algorithm</li>
         <li>📫 How to reach me @hextex Discord</li>
         <li>🏆 Competitive Programming 
