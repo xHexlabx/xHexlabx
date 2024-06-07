@@ -10,8 +10,8 @@
         <li>📫 How to reach me @hextex Discord</li>
         <li>🏆 Competitive Programming 
             <ul>
-                <li>TOI17 🥉</li>
-                <li>TOI18 🥇</li>
+                <li>TOI17 🥉 @ Walailak University</li>
+                <li>TOI18 🥇 @ Chiangmai University</li>
             </ul>
         </li>
         <li>🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥</li>
