@@ -1,4 +1,4 @@
-# HexTex | Tokyo | Vengeance 😺
+# 😾 HexTex | Tokyo | Vengeance 🐦‍⬛
 
 <hr>
 
@@ -16,7 +16,6 @@
         </li>
         <li>🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥</li>
     </ul>
-    
 </p>
 
 <hr>
