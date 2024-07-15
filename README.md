@@ -8,12 +8,14 @@
         <li>👀 I’m interested in Programming and Artificial Intelligence ( Image Processing and Signal Processing )</li>
         <li>🌱 I’m currently learning AI and Algorithm</li>
         <li>📫 How to reach me @hextex Discord</li>
+        <hr>
         <li>🏆 Competitive Programming 
             <ul>
                 <li>TOI17 🥉 @ Walailak University</li>
                 <li>TOI18 🥇 @ Chiangmai University</li>
             </ul>
         </li>
+        <hr>
         <li>🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥</li>
         <li>🏆 AI Hackathons 
             <ul>
