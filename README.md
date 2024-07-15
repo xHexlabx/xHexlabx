@@ -1,4 +1,4 @@
-# 😾 HexTex | Tokyo | Vengeance 🐦‍⬛
+# 😾 HexTex | Tokyo | 
 
 <hr>
 
