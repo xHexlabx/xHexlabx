@@ -15,6 +15,12 @@
             </ul>
         </li>
         <li>🤖 Super AI SS4 Optimizer ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥</li>
+        <li>🏆 AI Hackathons 
+            <ul>
+                <li>Mahidol x SuperAI Human Activity Recognition 1st</li>
+            </ul>
+        </li>
+        
     </ul>
 </p>
 
