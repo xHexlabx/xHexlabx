@@ -1,4 +1,4 @@
-# 😾 HexTex | Tokyo | 
+# 😾 HexTex | Tokyo 
 
 <hr>
 
