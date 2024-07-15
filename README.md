@@ -20,8 +20,6 @@
                 <li>Mahidol x SuperAI Human Activity Recognition 1st</li>
             </ul>
         </li>
-        
-    </ul>
 </p>
 
 <hr>
