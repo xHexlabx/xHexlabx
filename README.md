@@ -11,8 +11,8 @@
         <hr>
         <li>🏆 Competitive Programming 
             <ul>
-                <li>TOI17 🥉 @ Walailak University</li>
-                <li>TOI18 🥇 @ Chiangmai University</li>
+                <li>TOI17 🥉 Bronze Medal @ Walailak University</li>
+                <li>TOI18 🥇 Gold Medal @ Chiangmai University</li>
             </ul>
         </li>
         <hr>
