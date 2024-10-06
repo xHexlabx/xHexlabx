@@ -20,6 +20,8 @@
         <li>🏆 AI Hackathons 
             <ul>
                 <li>🥇 Mahidol x SuperAI Human Activity Recognition | 1st</li>
+                <li>🥉 Burapha x SuperAI Epidemiology | 4th</li>
+                
             </ul>
         </li>
 </p>
