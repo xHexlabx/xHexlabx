@@ -1,4 +1,4 @@
-# 😾 HexTex | Tokyo | Japan | Faker
+# 😾 HexTex | Tokyo 
 
 <hr>
 
