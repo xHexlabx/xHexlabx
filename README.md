@@ -21,6 +21,7 @@
             <ul>
                 <li>🥇 Mahidol x SuperAI Human Activity Recognition | 1st</li>
                 <li>🥉 Burapha x SuperAI Epidemiology | 4th </li>
+                <li>📑 PSU Phuket Durian Hackathon | 5th </li>
             </ul>
         </li>
 </p>
