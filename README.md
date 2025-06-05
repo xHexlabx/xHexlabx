@@ -1,54 +1,52 @@
-# 😾 HexTex | Tokyo 
 
-<hr>
+# 😾 HexTex | Tokyo 🗼
 
-<p>
-    <ul>
-        <li>👋 Hi, You're in "xHexlabx" </li>
-        <li>👀 I’m interested in Programming and Artificial Intelligence ( Image Processing and Signal Processing )</li>
-        <li>🌱 I’m currently learning AI and Algorithm</li>
-        <li>📫 How to reach me @hextex Discord</li>
-        <hr>
-        <li>🏆 Competitive Programming 
-            <ul>
-                <li>🥉 TOI17 Bronze Medal @ Walailak University</li>
-                <li>🥇 TOI18 Gold Medal @ Chiangmai University</li>
-            </ul>
-        </li>
-        <hr>
-        <li>🤖 Super AI SS4 Optimizer HeadQuarter ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป 🔥🔥🔥</li>
-        <li>🏆 AI Hackathons 
-            <ul>
-                <li>🥇 Mahidol x SuperAI Human Activity Recognition | 1st</li>
-                <li>🥉 Burapha x SuperAI Epidemiology | 4th </li>
-                <li>📑 PSU Phuket Durian Hackathon | 5th </li>
-            </ul>
-        </li>
+---
+
+### 👋 Hey there! Welcome to xHexlabx.
+
+I'm a passionate programmer with a strong interest in **Artificial Intelligence**, focusing on **Image Processing** and **Signal Processing**. I'm currently diving deeper into AI algorithms and expanding my knowledge.
+
+---
+
+### 💻 Tech Stack & Expertise
+
+I'm proficient in:
+
+* **Python** 🐍
+* **C++** ✨
+* **Deep Learning Frameworks** (e.g., TensorFlow, PyTorch)
+* **Data Analysis & Visualization**
+
+---
+
+### 🏆 Competitive Programming & Achievements
+
+* **TOI18 Gold Medal** @ Chiangmai University
+* **TOI17 Bronze Medal** @ Walailak University
+
+---
+
+### 🤖 AI Hackathons & Projects
+
+**"ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป" 🔥🔥** - Super AI SS4 Optimizer HeadQuarter
+
+* **🥇 Mahidol x SuperAI Human Activity Recognition** | 1st Place
+* **🥉 Burapha x SuperAI Epidemiology** | 4th Place
+* **📑 PSU Phuket Durian Hackathon** | 5th Place
+
+---
+
+### 📫 Let's Connect!
+
+You can reach me on Discord: **@hextex**
+
+---
+
+### 🔥 My GitHub Stats:
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=github-dark-blue" alt="GitHub Streak">
+    </a>
 </p>
-
-<hr>
-
-### 🔥 My Stats :
-
-<center> 
-     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=github-dark-blue)](https://git.io/streak-stats) 
-     
-</center>
-
-
-     
-    
-
- 
-  
-
-  
-  
-
-
-
-<!---
-xHexlabx/xHexlabx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
