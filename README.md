@@ -32,6 +32,8 @@ I'm proficient in:
 **"ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป" 🔥🔥** - Super AI SS4 Optimizer HeadQuarter
 
 * **🥇 Mahidol x SuperAI Human Activity Recognition** | 1st Place
+* **🥈 Super AI SS5 Innovation Southern | 2nd Place
+* **🥉 BDI Hackathon | 3rd Place
 * **🥉 Burapha x SuperAI Epidemiology** | 4th Place
 * **📑 PSU Phuket Durian Hackathon** | 5th Place
 
