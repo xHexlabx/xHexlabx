@@ -39,6 +39,10 @@ I'm proficient in:
 
 ---
 
+## Stupido Hackettino (Stupid Hackathon 9)
+
+* **Viscut Extenshod**
+
 ### 📫 Let's Connect!
 
 You can reach me on Discord: **@hextex**
