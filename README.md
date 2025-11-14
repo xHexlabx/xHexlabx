@@ -39,9 +39,14 @@ I'm proficient in:
 
 ---
 
-## Stupido Hackettino (Stupid Hackathon 9)
+### Stupido Hackettino (Stupid Hackathon 9)
 
 * **Viscut Extenshod**
+
+---
+### Digital Design
+* **🥇 Digital Design Camp @TNI** | 2nd Place
+---
 
 ### 📫 Let's Connect!
 
