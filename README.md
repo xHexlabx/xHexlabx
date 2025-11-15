@@ -45,7 +45,7 @@ I'm proficient in:
 
 ---
 ### Digital Design
-* **🥇 Digital Design Camp @TNI** | 2nd Place
+* **🥈 Digital Design Camp @TNI** | 2nd Place
 ---
 
 ### 📫 Let's Connect!
