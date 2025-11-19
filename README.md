@@ -1,5 +1,5 @@
 
-# 😾 HexTex | Tokyo 🗼
+# 😼 HexTex | Tokyo 🗼
 
 ---
 
