@@ -44,13 +44,15 @@ I'm proficient in:
 * **Viscut Extenshod** | The most stupid award
 
 ---
+
 ### 🛰️ Digital Design
 * **🥈 Digital Design Camp @TNI** | 2nd Place
----
 
 ---
-### 🛰️ Embedding Systems
+
+### 🦅 Embedding Systems
 * **TESA Top Gun Rally @CRMA**
+
 ---
 
 ### 📫 Let's Connect!
