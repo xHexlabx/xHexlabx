@@ -22,8 +22,8 @@ I'm proficient in:
 
 ### 🏆 Competitive Programming & Achievements
 
-* **TOI18 Gold Medal** @ Chiangmai University
-* **TOI17 Bronze Medal** @ Walailak University
+* **🥇 TOI18 Gold Medal** @ Chiangmai University
+* **🥉 TOI17 Bronze Medal** @ Walailak University
 
 ---
 
