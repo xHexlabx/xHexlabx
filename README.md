@@ -67,7 +67,7 @@ Passionate programmer with a strong interest in **Artificial Intelligence**, foc
 | Award | Event |
 |:-----:|:------|
 | 🥈 2nd | Digital Design Camp @ TNI |
-| 🦅 — | TESA Top Gun Rally @ CRMA |
+| 🦅 Silver Medal | TESA Top Gun Rally @ CRMA |
 
 ---
 
