@@ -1,70 +1,95 @@
+<h1 align="center">😼 HexTex | Tokyo 🗼</h1>
 
-# 😼 HexTex | Tokyo 🗼
+<p align="center">
+  <em>Programmer · AI Researcher · Competitive Programmer</em>
+</p>
 
----
-
-### 👋 Hey there! Welcome to xHexlabx.
-
-I'm a passionate programmer with a strong interest in **Artificial Intelligence**, focusing on **Image Processing** and **Signal Processing**. I'm currently diving deeper into AI algorithms and expanding my knowledge.
-
----
-
-### 💻 Tech Stack & Expertise
-
-I'm proficient in:
-
-* **Python** 🐍
-* **C++** ✨
-* **Deep Learning Frameworks** (e.g., TensorFlow, PyTorch)
-* **Data Analysis & Visualization**
+<p align="center">
+  <a href="https://discord.com/users/hextex"><img src="https://img.shields.io/badge/Discord-%40hextex-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Tokyo-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-### 🏆 Competitive Programming & Achievements
+### 👋 About Me
 
-* **🥇 TOI18 Gold Medal** @ Chiangmai University
-* **🥉 TOI17 Bronze Medal** @ Walailak University
+Passionate programmer with a strong interest in **Artificial Intelligence**, focusing on **Image Processing** and **Signal Processing**. Currently diving deeper into AI algorithms and continuously expanding my knowledge.
+
+> *"ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป" 🔥*
+> — Super AI SS4 Optimizer HeadQuarter
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+**Specialties:** Deep Learning · Computer Vision · Signal Processing · Data Analysis & Visualization
+
+---
+
+### 🏆 Competitive Programming
+
+| Award | Competition | Venue |
+|:-----:|:------------|:------|
+| 🥇 Gold | **TOI 18** | Chiang Mai University |
+| 🥉 Bronze | **TOI 17** | Walailak University |
 
 ---
 
 ### 🤖 AI Hackathons & Projects
 
-**"ไม่เด่น ไม่ดัง จะไม่หันหลังกลับไป" 🔥🔥** - Super AI SS4 Optimizer HeadQuarter
-
-* **🥇 Mahidol x SuperAI Human Activity Recognition** | 1st Place
-* **🥈 Super AI SS5 Innovation Southern** | 2nd Place
-* **🥉 BDI Hackathon** | 3rd Place
-* **🥉 Burapha x SuperAI Epidemiology** | 4th Place
-* **📑 PSU Phuket Durian Hackathon** | 5th Place
-
----
-
-### 😛 Stupido Hackettino (Stupid Hackathon 9)
-
-* **Viscut Extenshod** | The most stupid award
+| Place | Hackathon |
+|:-----:|:----------|
+| 🥇 1st | Mahidol × SuperAI — Human Activity Recognition |
+| 🥈 2nd | Super AI SS5 — Innovation Southern |
+| 🥉 3rd | BDI Hackathon |
+| 🏅 4th | Burapha × SuperAI — Epidemiology |
+| 📑 5th | PSU Phuket — Durian Hackathon |
 
 ---
 
-### 🛰️ Digital Design
-* **🥈 Digital Design Camp @TNI** | 2nd Place
+### 😛 Stupido Hackettino *(Stupid Hackathon 9)*
+
+> 🏆 **Viscut Extenshod** — *The Most Stupid Award*
 
 ---
 
-### 🦅 Embedding Systems
-* **TESA Top Gun Rally @CRMA**
+### 🛰️ Hardware & Embedded Systems
+
+| Award | Event |
+|:-----:|:------|
+| 🥈 2nd | Digital Design Camp @ TNI |
+| 🦅 — | TESA Top Gun Rally @ CRMA |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xHexlabx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHexlabx&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xHexlabx&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
 
-You can reach me on Discord: **@hextex**
-
----
-
-### 🔥 My GitHub Stats:
-
 <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=github-dark-blue" alt="GitHub Streak">
-    </a>
+  <a href="https://discord.com/users/hextex"><img src="https://img.shields.io/badge/Discord-%40hextex-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
