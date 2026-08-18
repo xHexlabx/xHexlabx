@@ -45,6 +45,14 @@ Passionate programmer with a strong interest in **Artificial Intelligence**, foc
 
 ---
 
+### 🤖 Robotics
+
+| Result | Competition | Venue |
+|:-----:|:------------|:------|
+| 🏅 6th Place Finalist | **RoboCup@Home 2026** (Team EIC) | Incheon, South Korea |
+
+---
+
 ### 🏆 Competitive Programming
 
 | Award | Competition | Venue |
@@ -94,23 +102,6 @@ End-to-end board design from schematic capture to manufacturing, using **KiCad**
 ### 😛 Stupido Hackettino *(Stupid Hackathon 9)*
 
 > 🏆 **Viscut Extenshod** — *The Most Stupid Award*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xHexlabx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHexlabx&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xHexlabx&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xHexlabx&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
 
 ---
 
