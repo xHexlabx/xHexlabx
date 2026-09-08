@@ -110,3 +110,25 @@ End-to-end board design from schematic capture to manufacturing, using **KiCad**
 <p align="center">
   <a href="https://discord.com/users/hextex"><img src="https://img.shields.io/badge/Discord-%40hextex-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+---
+
+### 📊 Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xHexlabx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHexlabx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xHexlabx&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xHexlabx&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xHexlabx/xHexlabx/output/github-snake-dark.svg" />
+</p>
+
